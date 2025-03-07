@@ -9,6 +9,7 @@
 - 🤔 I’m looking for help with your work
 - ⚡ Fun fact
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -27,4 +28,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Zihad-Zaman-Sazim&show_icons=true&locale=en&layout=compact" alt="Md-Zihad-Zaman-Sazim" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Md-Zihad-Zaman-Sazim" alt="Md-Zihad-Zaman-Sazim" /></a></p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
