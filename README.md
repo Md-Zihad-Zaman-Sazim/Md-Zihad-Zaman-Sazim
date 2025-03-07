@@ -2,6 +2,8 @@
 
 <p>A passionate frontend Designer and Programmer.  </p>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 💫 About Me:
 - 🔭 I’m currently working on Pharmacy Management System
 - 🌱 I’m currently learning Java
