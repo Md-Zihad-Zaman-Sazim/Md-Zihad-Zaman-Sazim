@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Md. Sazim </h1>
 
 <p>A passionate frontend Designer and Programmer.  </p>
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 💫 About Me:
 - 🔭 I’m currently working on Pharmacy Management System
 - 🌱 I’m currently learning Java
@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with your work
 - ⚡ Fun fact
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
